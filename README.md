@@ -1,10 +1,11 @@
-# Generative model experiments
+## Generative model experiments
 
 This repo contains miscellaneous code / experiments relating to generative latent variable models (and how these might relate to aspects of memory).
 
 The code here is Python written in Jupyter Notebooks.
 
-Contents:
+### Contents:
+
 - types_of_model - these notebooks implement several types of generative model trained on the MNIST handwritten digits dataset, using TensorFlow / Keras
   - mnist_vae.ipynb - a variational autoencoder
   - mnist_gan.ipynb - a generative adversarial network
