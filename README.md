@@ -15,4 +15,5 @@ The code here is Python written in Jupyter Notebooks.
   - news_article_DRM_VAE_expt_one.ipynb - a model of semantic intrusion in the recall of word lists, working towards a model of the Deese-Roediger-McDermott task
 - misc_nlp_notebooks: miscellaneous natural language processing notebooks
   - seq2seq_recurrent_autoencoder.ipynb - character level autoencoder for text
-  - sentence_vae_attempt_one.ipynb - attempt at VAE for sentences
+  - sentence_vae_attempt_one.ipynb - unsuccessful attempt at VAE for sentences
+  - text_generation_rnn.ipynb - this slightly altered copy of TensorFlow tutorial notebook trains an RNN to generate news articles 
